@@ -88,14 +88,33 @@ It includes information such as:
 
 The project includes visualizations such as:
 
-- Price Distribution
-- Brand-wise Product Count
-- Average Price by Brand
-- Correlation Heatmap
-- Star Rating vs Price
-- Tonnage vs Price
+### Price Distribution
+![Price Distribution](Images/price_distribution.png)
 
-> Screenshots of these visualizations can be found in the `Images` folder.
+---
+
+### Brand Distribution
+![Brand Distribution](Images/brand_distribution.png)
+
+---
+
+### Average Price by Brand
+![Average Price by Brand](Images/average_price_by_brand.png)
+
+---
+
+### Correlation Heatmap
+![Correlation Heatmap](Images/correlation_heatmap.png)
+
+---
+
+### Star Rating vs Price
+![Star Rating vs Price](Images/star_rating_vs_price.png)
+
+---
+
+### Combined Effect of Star Rating & Tonnage on Price
+![Combined Effect of Star Rating & Tonnage on Price](Images/combined_effect_star_tonnage_price.png)
 
 ---
 
